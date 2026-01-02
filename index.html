@@ -12,7 +12,7 @@
 <body>
     <h1>Job Scraper 🔍</h1>
     <p>어떤 기술 스택의 채용 공고를 찾으시나요?</p>
-    <form onsubmit="event.preventDefault(); window.location.href='/search/' + document.querySelector('input').value;">
+    <form onsubmit="event.preventDefault(); window.location.href='search/' + document.querySelector('input').value + '/';">
         <input type="text" placeholder="예: python, rust" required>
         <button>Search</button>
     </form>
