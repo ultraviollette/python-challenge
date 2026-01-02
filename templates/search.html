@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <title>Search Results: {{keyword}}</title>
+    <style>
+        body { font-family: sans-serif; max-width: 800px; margin: auto; padding: 20px; }
+        table { width: 100%; border-collapse: collapse; margin-top: 20px; }
+        th, td { border: 1px solid #ddd; padding: 12px; text-align: left; }
+        th { background-color: #f8f8f8; }
+        .home-link { text-decoration: none; color: blue; }
+    </style>
+</head>
+<body>
+    <a href="/" class="home-link">&larr; 다시 검색하기</a>
+    <h1>Results for "{{keyword}}"</h1>
+    <p>총 <strong>{{jobs|length}}</strong>개의 공고를 찾았습니다.</p>
+    
+    <table>
+        <thead>
+            <tr>
+                <th>Company</th>
+                <th>Position</th>
+                <th>Link</th>
+            </tr>
+        </thead>
+        <tbody>
+            {% for job in jobs %}
+            <tr>
+                <td>{{job.company}}</td>
+                <td>{{job.title}}</td>
+                <td><a href="{{job.link}}" target="_blank">View Post &rarr;</a></td>
+            </tr>
+            {% endfor %}
+        </tbody>
+    </table>
+</body>
+</html>

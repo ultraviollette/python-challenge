@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <title>Search Results: typescript</title>
+    <style>
+        body { font-family: sans-serif; max-width: 800px; margin: auto; padding: 20px; }
+        table { width: 100%; border-collapse: collapse; margin-top: 20px; }
+        th, td { border: 1px solid #ddd; padding: 12px; text-align: left; }
+        th { background-color: #f8f8f8; }
+        .home-link { text-decoration: none; color: blue; }
+    </style>
+</head>
+<body>
+    <a href="/" class="home-link">&larr; 다시 검색하기</a>
+    <h1>Results for "typescript"</h1>
+    <p>총 <strong>20</strong>개의 공고를 찾았습니다.</p>
+    
+    <table>
+        <thead>
+            <tr>
+                <th>Company</th>
+                <th>Position</th>
+                <th>Link</th>
+            </tr>
+        </thead>
+        <tbody>
+            
+            <tr>
+                <td>DATATRONiQ</td>
+                <td>Senior Fullstack Developer (Typescript / Javascript / Node.js)</td>
+                <td><a href="https://berlinstartupjobs.com/engineering/senior-fullstack-developer-typescript-javascript-node-js-datatroniq/" target="_blank">View Post &rarr;</a></td>
+            </tr>
+            
+            <tr>
+                <td>DATATRONiQ</td>
+                <td>Senior Go Backend Developer</td>
+                <td><a href="https://berlinstartupjobs.com/engineering/senior-backend-developer-golang-m-f-d-datatroniq/" target="_blank">View Post &rarr;</a></td>
+            </tr>
+            
+            <tr>
+                <td>EquiMatch</td>
+                <td>Backend Engineer</td>
+                <td><a href="https://berlinstartupjobs.com/engineering/backend-engineer-equimatch-gmbh/" target="_blank">View Post &rarr;</a></td>
+            </tr>
+            
+            <tr>
+                <td>Climatiq</td>
+                <td>Senior Full Stack Engineer – Climate Tech</td>
+                <td><a href="https://berlinstartupjobs.com/engineering/senior-full-stack-engineer-climate-tech-rust-typescript-climatiq/" target="_blank">View Post &rarr;</a></td>
+            </tr>
+            
+            <tr>
+                <td>Tandem</td>
+                <td>Senior Web Engineer</td>
+                <td><a href="https://berlinstartupjobs.com/engineering/senior-web-engineer-tandem/" target="_blank">View Post &rarr;</a></td>
+            </tr>
+            
+            <tr>
+                <td>Trmlabs</td>
+                <td>Solutions Architect</td>
+                <td><a href="https://web3.career/solutions-architect-trmlabs/142241" target="_blank">View Post &rarr;</a></td>
+            </tr>
+            
+            <tr>
+                <td>Berkley Hunt</td>
+                <td>Founding Full Stack Engineer</td>
+                <td><a href="https://web3.career/founding-full-stack-engineer-berkleyhunt/142228" target="_blank">View Post &rarr;</a></td>
+            </tr>
+            
+            <tr>
+                <td>Bright Mind Solutions LLC</td>
+                <td>Blockchain Developer</td>
+                <td><a href="https://web3.career/blockchain-developer-brightmindsolutionsllc/142226" target="_blank">View Post &rarr;</a></td>
+            </tr>
+            
+            <tr>
+                <td>Paena | YC W26</td>
+                <td>Founding Engineer</td>
+                <td><a href="https://web3.career/founding-engineer-paena-ycw26/142225" target="_blank">View Post &rarr;</a></td>
+            </tr>
+            
+            <tr>
+                <td>Bitso</td>
+                <td>Fullstack Engineer Mobile</td>
+                <td><a href="https://web3.career/fullstack-engineer-mobile-bitso/142207" target="_blank">View Post &rarr;</a></td>
+            </tr>
+            
+            <tr>
+                <td>Bcbgroup</td>
+                <td>Senior Full Stack Engineer</td>
+                <td><a href="https://web3.career/senior-full-stack-engineer-bcbgroup/107832" target="_blank">View Post &rarr;</a></td>
+            </tr>
+            
+            <tr>
+                <td>Bcbgroup</td>
+                <td>Senior Full Stack Engineer</td>
+                <td><a href="https://web3.career/senior-full-stack-engineer-bcbgroup/107831" target="_blank">View Post &rarr;</a></td>
+            </tr>
+            
+            <tr>
+                <td>Bcbgroup</td>
+                <td>Full Stack Engineer</td>
+                <td><a href="https://web3.career/full-stack-engineer-bcbgroup/140196" target="_blank">View Post &rarr;</a></td>
+            </tr>
+            
+            <tr>
+                <td>Bcbgroup</td>
+                <td>Financial Crime Data Analyst</td>
+                <td><a href="https://web3.career/financial-crime-data-analyst-bcbgroup/139845" target="_blank">View Post &rarr;</a></td>
+            </tr>
+            
+            <tr>
+                <td>Zscaler</td>
+                <td>Sr. Staff Software Development Engineer</td>
+                <td><a href="https://web3.career/sr-staff-software-development-engineer-zscaler/101646" target="_blank">View Post &rarr;</a></td>
+            </tr>
+            
+            <tr>
+                <td>Zinnia</td>
+                <td>CIAM Software Engineer III</td>
+                <td><a href="https://web3.career/ciam-software-engineer-iii-zinnia/135321" target="_blank">View Post &rarr;</a></td>
+            </tr>
+            
+            <tr>
+                <td>Zinnia</td>
+                <td>API Sr Software Engineer I</td>
+                <td><a href="https://web3.career/api-sr-software-engineer-i-zinnia/115986" target="_blank">View Post &rarr;</a></td>
+            </tr>
+            
+            <tr>
+                <td>Uniswaplabs</td>
+                <td>Senior Frontend Engineer</td>
+                <td><a href="https://web3.career/senior-frontend-engineer-uniswaplabs/73955" target="_blank">View Post &rarr;</a></td>
+            </tr>
+            
+            <tr>
+                <td>Layerzerolabs</td>
+                <td>Rust Engineer</td>
+                <td><a href="https://web3.career/rust-engineer-layerzerolabs/100958" target="_blank">View Post &rarr;</a></td>
+            </tr>
+            
+            <tr>
+                <td>Layerzerolabs</td>
+                <td>Backend Engineer</td>
+                <td><a href="https://web3.career/backend-engineer-layerzerolabs/73714" target="_blank">View Post &rarr;</a></td>
+            </tr>
+            
+        </tbody>
+    </table>
+</body>
+</html>

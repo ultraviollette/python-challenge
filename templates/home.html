@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <title>Job Scraper</title>
+    <style>
+        body { font-family: sans-serif; text-align: center; padding: 50px; }
+        input { padding: 10px; width: 300px; }
+        button { padding: 10px 20px; cursor: pointer; }
+    </style>
+</head>
+<body>
+    <h1>Job Scraper 🔍</h1>
+    <p>어떤 기술 스택의 채용 공고를 찾으시나요?</p>
+    <form onsubmit="event.preventDefault(); window.location.href='/search/' + document.querySelector('input').value;">
+        <input type="text" placeholder="예: python, rust" required>
+        <button>Search</button>
+    </form>
+</body>
+</html>
