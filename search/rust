@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <title>Search Results: rust</title>
+    <style>
+        body { font-family: sans-serif; max-width: 800px; margin: auto; padding: 20px; }
+        table { width: 100%; border-collapse: collapse; margin-top: 20px; }
+        th, td { border: 1px solid #ddd; padding: 12px; text-align: left; }
+        th { background-color: #f8f8f8; }
+        .home-link { text-decoration: none; color: blue; }
+    </style>
+</head>
+<body>
+    <a href="/" class="home-link">&larr; 다시 검색하기</a>
+    <h1>Results for "rust"</h1>
+    <p>총 <strong>15</strong>개의 공고를 찾았습니다.</p>
+    
+    <table>
+        <thead>
+            <tr>
+                <th>Company</th>
+                <th>Position</th>
+                <th>Link</th>
+            </tr>
+        </thead>
+        <tbody>
+            
+            <tr>
+                <td>MLabs</td>
+                <td>Blockchain Engineer</td>
+                <td><a href="https://web3.career/blockchain-engineer-mlabs/142257" target="_blank">View Post &rarr;</a></td>
+            </tr>
+            
+            <tr>
+                <td>travoom</td>
+                <td>Senior Backend Rust Engineer</td>
+                <td><a href="https://web3.career/senior-backend-rust-engineer-travoom/142255" target="_blank">View Post &rarr;</a></td>
+            </tr>
+            
+            <tr>
+                <td>Berkley Hunt</td>
+                <td>Founding Full Stack Engineer</td>
+                <td><a href="https://web3.career/founding-full-stack-engineer-berkleyhunt/142228" target="_blank">View Post &rarr;</a></td>
+            </tr>
+            
+            <tr>
+                <td>Numus</td>
+                <td>Quantitative Developer Crypto Options</td>
+                <td><a href="https://web3.career/quantitative-developer-crypto-options-numus/103731" target="_blank">View Post &rarr;</a></td>
+            </tr>
+            
+            <tr>
+                <td>Layerzerolabs</td>
+                <td>Rust Engineer</td>
+                <td><a href="https://web3.career/rust-engineer-layerzerolabs/100958" target="_blank">View Post &rarr;</a></td>
+            </tr>
+            
+            <tr>
+                <td>Jumpcrypto</td>
+                <td>Crypto Production Engineer</td>
+                <td><a href="https://web3.career/crypto-production-engineer-jumpcrypto/89562" target="_blank">View Post &rarr;</a></td>
+            </tr>
+            
+            <tr>
+                <td>Gsrmarkets</td>
+                <td>Quantitative Developer</td>
+                <td><a href="https://web3.career/quantitative-developer-gsrmarkets/105350" target="_blank">View Post &rarr;</a></td>
+            </tr>
+            
+            <tr>
+                <td>Gsrmarkets</td>
+                <td>Quantitative Strategist</td>
+                <td><a href="https://web3.career/quantitative-strategist-gsrmarkets/140589" target="_blank">View Post &rarr;</a></td>
+            </tr>
+            
+            <tr>
+                <td>Gsrmarkets</td>
+                <td>Site Reliability Engineer</td>
+                <td><a href="https://web3.career/site-reliability-engineer-gsrmarkets/100955" target="_blank">View Post &rarr;</a></td>
+            </tr>
+            
+            <tr>
+                <td>Gsrmarkets</td>
+                <td>Data Engineer</td>
+                <td><a href="https://web3.career/data-engineer-gsrmarkets/104585" target="_blank">View Post &rarr;</a></td>
+            </tr>
+            
+            <tr>
+                <td>Ballistic</td>
+                <td>Senior Blockchain Engineer</td>
+                <td><a href="https://web3.career/senior-blockchain-engineer-ballistic/137202" target="_blank">View Post &rarr;</a></td>
+            </tr>
+            
+            <tr>
+                <td>ChainGPT</td>
+                <td>Blockchain Architect Asia</td>
+                <td><a href="https://web3.career/blockchain-architect-asia-chaingpt/142140" target="_blank">View Post &rarr;</a></td>
+            </tr>
+            
+            <tr>
+                <td>MLabs</td>
+                <td>Blockchain Payments Engineer</td>
+                <td><a href="https://web3.career/blockchain-payments-engineer-mlabs/142125" target="_blank">View Post &rarr;</a></td>
+            </tr>
+            
+            <tr>
+                <td>ZIGChain</td>
+                <td>ZIGChain Blockchain Engineer</td>
+                <td><a href="https://web3.career/zigchain-blockchain-engineer-zigchain/139083" target="_blank">View Post &rarr;</a></td>
+            </tr>
+            
+            <tr>
+                <td>Jito Labs</td>
+                <td>Senior Systems Engineer Permance</td>
+                <td><a href="https://web3.career/senior-systems-engineer-performance-jito-wtf/142028" target="_blank">View Post &rarr;</a></td>
+            </tr>
+            
+        </tbody>
+    </table>
+</body>
+</html>

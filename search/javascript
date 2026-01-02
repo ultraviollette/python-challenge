@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <title>Search Results: javascript</title>
+    <style>
+        body { font-family: sans-serif; max-width: 800px; margin: auto; padding: 20px; }
+        table { width: 100%; border-collapse: collapse; margin-top: 20px; }
+        th, td { border: 1px solid #ddd; padding: 12px; text-align: left; }
+        th { background-color: #f8f8f8; }
+        .home-link { text-decoration: none; color: blue; }
+    </style>
+</head>
+<body>
+    <a href="/" class="home-link">&larr; 다시 검색하기</a>
+    <h1>Results for "javascript"</h1>
+    <p>총 <strong>18</strong>개의 공고를 찾았습니다.</p>
+    
+    <table>
+        <thead>
+            <tr>
+                <th>Company</th>
+                <th>Position</th>
+                <th>Link</th>
+            </tr>
+        </thead>
+        <tbody>
+            
+            <tr>
+                <td>DATATRONiQ</td>
+                <td>Senior Fullstack Developer (Typescript / Javascript / Node.js)</td>
+                <td><a href="https://berlinstartupjobs.com/engineering/senior-fullstack-developer-typescript-javascript-node-js-datatroniq/" target="_blank">View Post &rarr;</a></td>
+            </tr>
+            
+            <tr>
+                <td>DATATRONiQ</td>
+                <td>Senior Go Backend Developer</td>
+                <td><a href="https://berlinstartupjobs.com/engineering/senior-backend-developer-golang-m-f-d-datatroniq/" target="_blank">View Post &rarr;</a></td>
+            </tr>
+            
+            <tr>
+                <td>VINOS</td>
+                <td>E-Commerce Tech Specialist (m/w/d)</td>
+                <td><a href="https://berlinstartupjobs.com/engineering/e-commerce-tech-specialist-m-w-d-wein-vinos-gmbh/" target="_blank">View Post &rarr;</a></td>
+            </tr>
+            
+            <tr>
+                <td>Trmlabs</td>
+                <td>Solutions Architect</td>
+                <td><a href="https://web3.career/solutions-architect-trmlabs/142241" target="_blank">View Post &rarr;</a></td>
+            </tr>
+            
+            <tr>
+                <td>Fireblocks</td>
+                <td>Senior Technical Support Engineer</td>
+                <td><a href="https://web3.career/senior-technical-support-engineer-fireblocks/142238" target="_blank">View Post &rarr;</a></td>
+            </tr>
+            
+            <tr>
+                <td>Gemini</td>
+                <td>Product Design Intern Summer 2026</td>
+                <td><a href="https://web3.career/product-design-intern-summer-2026-gemini/141873" target="_blank">View Post &rarr;</a></td>
+            </tr>
+            
+            <tr>
+                <td>Berkley Hunt</td>
+                <td>Founding Full Stack Engineer</td>
+                <td><a href="https://web3.career/founding-full-stack-engineer-berkleyhunt/142228" target="_blank">View Post &rarr;</a></td>
+            </tr>
+            
+            <tr>
+                <td>Token Metrics Inc.</td>
+                <td>Web3 Full Stack Developer Global</td>
+                <td><a href="https://web3.career/web3-full-stack-developer-global-tokenmetricsinc/142213" target="_blank">View Post &rarr;</a></td>
+            </tr>
+            
+            <tr>
+                <td>Bitso</td>
+                <td>Fullstack Engineer Mobile</td>
+                <td><a href="https://web3.career/fullstack-engineer-mobile-bitso/142207" target="_blank">View Post &rarr;</a></td>
+            </tr>
+            
+            <tr>
+                <td>Zscaler</td>
+                <td>Sr. Staff Software Development Engineer</td>
+                <td><a href="https://web3.career/sr-staff-software-development-engineer-zscaler/101646" target="_blank">View Post &rarr;</a></td>
+            </tr>
+            
+            <tr>
+                <td>Launchpadtechnologiesinc</td>
+                <td>Senior FullStack Developer</td>
+                <td><a href="https://web3.career/senior-full-stack-developer-launchpadtechnologiesinc/104256" target="_blank">View Post &rarr;</a></td>
+            </tr>
+            
+            <tr>
+                <td>Groma</td>
+                <td>Senior Software Engineer</td>
+                <td><a href="https://web3.career/senior-software-engineer-groma/59987" target="_blank">View Post &rarr;</a></td>
+            </tr>
+            
+            <tr>
+                <td>Figment</td>
+                <td>Senior Sales Engineer</td>
+                <td><a href="https://web3.career/senior-sales-engineer-figment/96140" target="_blank">View Post &rarr;</a></td>
+            </tr>
+            
+            <tr>
+                <td>Exodus54</td>
+                <td>Senior Software Engineer</td>
+                <td><a href="https://web3.career/senior-software-engineer-exodus54/105346" target="_blank">View Post &rarr;</a></td>
+            </tr>
+            
+            <tr>
+                <td>Bluecubeservices</td>
+                <td>FrontEnd Engineer</td>
+                <td><a href="https://web3.career/front-end-engineer-bluecubeservices/102823" target="_blank">View Post &rarr;</a></td>
+            </tr>
+            
+            <tr>
+                <td>Bitpanda</td>
+                <td>Senior Software Engineer React Blockchain Custody</td>
+                <td><a href="https://web3.career/senior-software-engineer-react-blockchain-custody-bitpanda/90590" target="_blank">View Post &rarr;</a></td>
+            </tr>
+            
+            <tr>
+                <td>Bitpanda</td>
+                <td>Senior QA Engineer BTS</td>
+                <td><a href="https://web3.career/senior-qa-engineer-bts-bitpanda/98950" target="_blank">View Post &rarr;</a></td>
+            </tr>
+            
+            <tr>
+                <td>Bitmex</td>
+                <td>Software Engineer Manager Marketing</td>
+                <td><a href="https://web3.career/software-engineer-manager-marketing-bitmex/141458" target="_blank">View Post &rarr;</a></td>
+            </tr>
+            
+        </tbody>
+    </table>
+</body>
+</html>
